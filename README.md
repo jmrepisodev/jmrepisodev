@@ -1,22 +1,23 @@
 <h1 align="center">Hi, I´m Jose, a Full Stack Developer and Android engineer.</h1>
 <h3 align="center">I love coding apps. I'm always learning and looking for new challenges 🚀.</h3>
 
+<h3 dir="auto"><a id="user-content-about-me-" class="anchor" aria-hidden="true" href="#about-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About me <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji></h3>
 <div class="highlight highlight-source-java notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-smi">AboutMe</span> {
   <span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-smi">void</span> <span class="pl-en">main</span>(<span class="pl-smi">String</span>[] <span class="pl-s1">args</span>) {
-    <span class="pl-k">final</span> <span class="pl-smi">String</span> <span class="pl-c1">ME</span> = <span class="pl-s">"Luis José Sánchez 🙋‍♂️"</span>;
-    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">LANGUAGES</span> = {<span class="pl-s">"Java"</span>, <span class="pl-s">"Typescript"</span>, <span class="pl-s">"Javascript"</span>, <span class="pl-s">"Python"</span>, <span class="pl-s">"PHP"</span>, <span class="pl-s">"SQL"</span>, <span class="pl-s">"HTML"</span>, <span class="pl-s">"CSS"</span>};
-    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">FRAMEWORKS</span> = {<span class="pl-s">"Angular"</span>, <span class="pl-s">"Ionic"</span>};
-    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">INTERESTS</span> = {<span class="pl-s">"Teaching 👨‍🏫"</span>, <span class="pl-s">"Coding 💻"</span>, <span class="pl-s">"Going to the gym 🏋️‍♂️"</span>, <span class="pl-s">"Running 🏃"</span>, <span class="pl-s">"Cars 🚗"</span>, <span class="pl-s">"Motorbikes 🏍️"</span>, <span class="pl-s">"Vegetarian food 🥑"</span>};
-    <span class="pl-k">final</span> <span class="pl-smi">String</span> <span class="pl-c1">CONTACT</span> = <span class="pl-s">"https://www.linkedin.com/in/luisjosesanchez/"</span>;
+    <span class="pl-k">final</span> <span class="pl-smi">String</span> <span class="pl-c1">ME</span> = <span class="pl-s">"José Miguel Repiso 🙋‍♂️"</span>;
+    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">LANGUAGES</span> = {<span class="pl-s">"Java"</span>, <span class="pl-s">"C#"</span>, <span class="pl-s">"Javascript"</span>, <span class="pl-s">"Python"</span>, <span class="pl-s">"PHP"</span>, <span class="pl-s">"SQL"</span>, <span class="pl-s">"HTML"</span>, <span class="pl-s">"CSS"</span>};
+    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">FRAMEWORKS</span> = {<span class="pl-s">"Spring"</span>, <span class="pl-s">"React"</span>};
+    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">INTERESTS</span> = {<span class="pl-s">"Teaching 👨‍🏫"</span>, <span class="pl-s">"Coding 💻"</span>, <span class="pl-s">"Gym 🏋️‍♂️"</span>, <span class="pl-s">"Running 🏃"</span>, <span class="pl-s">"Reading"</span>, <span class="pl-s">"Science"</span>, <span class="pl-s">"Health science 🥑"</span>};
+    <span class="pl-k">final</span> <span class="pl-smi">String</span> <span class="pl-c1">CONTACT</span> = <span class="pl-s">""</span>;
   }
 }</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="public class AboutMe {
   public static void main(String[] args) {
-    final String ME = &quot;Luis José Sánchez 🙋‍♂️&quot;;
-    final String[] LANGUAGES = {&quot;Java&quot;, &quot;Typescript&quot;, &quot;Javascript&quot;, &quot;Python&quot;, &quot;PHP&quot;, &quot;SQL&quot;, &quot;HTML&quot;, &quot;CSS&quot;};
-    final String[] FRAMEWORKS = {&quot;Angular&quot;, &quot;Ionic&quot;};
-    final String[] INTERESTS = {&quot;Teaching 👨‍🏫&quot;, &quot;Coding 💻&quot;, &quot;Going to the gym 🏋️‍♂️&quot;, &quot;Running 🏃&quot;, &quot;Cars 🚗&quot;, &quot;Motorbikes 🏍️&quot;, &quot;Vegetarian food 🥑&quot;};
-    final String CONTACT = &quot;https://www.linkedin.com/in/luisjosesanchez/&quot;;
+    final String ME = &quot;José Miguel Repiso 🙋‍♂️&quot;;
+    final String[] LANGUAGES = {&quot;Java&quot;, &quot;C#&quot;, &quot;Javascript&quot;, &quot;Python&quot;, &quot;PHP&quot;, &quot;SQL&quot;, &quot;HTML&quot;, &quot;CSS&quot;};
+    final String[] FRAMEWORKS = {&quot;Spring&quot;, &quot;React&quot;};
+    final String[] INTERESTS = {&quot;Teaching 👨‍🏫&quot;, &quot;Coding 💻&quot;, &quot;Gyym 🏋️‍♂️&quot;, &quot;Running 🏃&quot;, &quot;Reading&quot;, &quot;Science&quot;, &quot;Health science🥑&quot;};
+    final String CONTACT = &quot;/&quot;;
   }
 }
 " tabindex="0" role="button" style="display: inherit;">
