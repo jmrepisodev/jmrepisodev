@@ -5,10 +5,10 @@
 <div class="highlight highlight-source-java notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-smi">AboutMe</span> {
   <span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-smi">void</span> <span class="pl-en">main</span>(<span class="pl-smi">String</span>[] <span class="pl-s1">args</span>) {
     <span class="pl-k">final</span> <span class="pl-smi">String</span> <span class="pl-c1">ME</span> = <span class="pl-s">"José Miguel Repiso 🙋‍♂️"</span>;
-    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">LANGUAGES</span> = {<span class="pl-s">"Java"</span>, <span class="pl-s">"C#"</span>, <span class="pl-s">"Javascript"</span>, <span class="pl-s">"Python"</span>, <span class="pl-s">"PHP"</span>, <span class="pl-s">"SQL"</span>, <span class="pl-s">"HTML"</span>, <span class="pl-s">"CSS"</span>};
-    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">FRAMEWORKS</span> = {<span class="pl-s">"Spring"</span>, <span class="pl-s">"React"</span>};
-    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">INTERESTS</span> = {<span class="pl-s">"Teaching 👨‍🏫"</span>, <span class="pl-s">"Coding 💻"</span>, <span class="pl-s">"Gym 🏋️‍♂️"</span>, <span class="pl-s">"Running 🏃"</span>, <span class="pl-s">"Reading"</span>, <span class="pl-s">"Science"</span>, <span class="pl-s">"Health science 🥑"</span>};
-    <span class="pl-k">final</span> <span class="pl-smi">String</span> <span class="pl-c1">CONTACT</span> = <span class="pl-s">""</span>;
+    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">LANGUAGES</span> = {<span class="pl-s">"Java"</span>, <span class="pl-s">"Javascript"</span>, <span class="pl-s">"Python"</span>, <span class="pl-s">"PHP"</span>, <span class="pl-s">"SQL"</span>, <span class="pl-s">"HTML"</span>, <span class="pl-s">"CSS"</span>};
+    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">FRAMEWORKS</span> = {<span class="pl-s">"Spring"</span>, <span class="pl-s">"React"</span>, <span class="pl-s">"Laravel"</span>};
+    <span class="pl-k">final</span> <span class="pl-smi">String</span>[] <span class="pl-c1">INTERESTS</span> = {<span class="pl-s">"Learning 📚"</span>, <span class="pl-s">"Coding 💻"</span>, <span class="pl-s">"Gym 🏋️‍♂️"</span>, <span class="pl-s">"Running 🏃"</span>, <span class="pl-s">"Reading 📚"</span>, <span class="pl-s">"Science 🔬"</span>, <span class="pl-s">"Health science 🥑"</span>};
+    <span class="pl-k">final</span> <span class="pl-smi">String</span> <span class="pl-c1">CONTACT</span> = <span class="pl-s">"jmrepisodev@gmail.com"</span>;
   }
 }</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="public class AboutMe {
@@ -17,7 +17,7 @@
     final String[] LANGUAGES = {&quot;Java&quot;, &quot;Javascript&quot;, &quot;Python&quot;, &quot;PHP&quot;, &quot;SQL&quot;, &quot;HTML&quot;, &quot;CSS&quot;};
     final String[] FRAMEWORKS = {&quot;Spring&quot;, &quot;React&quot; &quot;Laravel&quot;};
     final String[] INTERESTS = {&quot; Learning 📚&quot;, &quot; Coding 💻&quot;, &quot;Gyym 🏋️‍♂️&quot;, &quot;Running 🏃&quot;, &quot;Reading 📚&quot;,&quot;Science 🔬&quot;, &quot;Health science🥑&quot;};
-    final String CONTACT = &quot; jmrepisodev@gmail.com &quot;;
+    final String CONTACT = &quot;jmrepisodev@gmail.com &quot;;
   }
 }
 " tabindex="0" role="button" style="display: inherit;">
