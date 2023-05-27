@@ -14,7 +14,7 @@
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="public class AboutMe {
   public static void main(String[] args) {
     final String ME = &quot;José Miguel Repiso 🙋‍♂️&quot;;
-    final String[] LANGUAGES = {&quot;Java&quot;, &quot;Javascript&quot;, &quot;Python&quot;, &quot;PHP&quot;, &quot;SQL&quot;, &quot;HTML&quot;, &quot;CSS&quot;};
+    final String[] LANGUAGES = {&quot;Java&quot;, &quot;Javascript&quot;, &quot;Python&quot;, &quot;PHP&quot;, &quot;Laravel&quot;, &quot;React&quot;, &quot;SQL&quot;, &quot;HTML&quot;, &quot;CSS&quot;};
     final String[] FRAMEWORKS = {&quot;Spring&quot;, &quot;React&quot; &quot;Laravel&quot;};
     final String[] INTERESTS = {&quot; Learning 📚&quot;, &quot; Coding 💻&quot;, &quot;Gyym 🏋️‍♂️&quot;, &quot;Running 🏃&quot;, &quot;Reading 📚&quot;,&quot;Science 🔬&quot;, &quot;Health science🥑&quot;};
     final String CONTACT = &quot;jmrepisodev@gmail.com &quot;;
